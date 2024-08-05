@@ -2,6 +2,8 @@
 flipper clone based around the raspberrypi pico board and some off the shelf parts 
 this project uses circuitpython version 8.x and you will encounter issues if you use older circuit python 7.x or 6.x libraries
 ### NOTE: this project is still in development and only works if you are running each module/script separately
+the pico lacks the required pins to support both the oled menu + buttons and the below mentioned parts
+will be porting over this project to the pi zero w in near future
 parts used:
 
 + pn532 rfid/nfc reader (this can do both 13.5mhz and 125 khz)
