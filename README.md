@@ -14,10 +14,3 @@ parts used:
 
 
 
-TODO:
-+ add ir remote code cloning functionality
-+ implement interactive menu with push buttons 
-+ add radio functionality
-+ add bluetooth support
-+ make a standalone library for easier use
-+ add support for pico w
